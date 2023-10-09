@@ -1,13 +1,65 @@
 > #  **Documentation for OCI VCN creation with Terraform.**
 >
 > ## To Begin
-- Google terraform documentation.
+
+- Open your terminal
+
+- create a folder for save your job/ work being done
+
+```
+mkdir (name of choice)
+```
+then 
+```
+ls
+```
+
+then
+
+```
+cd (name of directory made)
+```
+then
+
+```
+touch (filename)
+```
+this file created in the directory will have the files and folders to create the vcn
+```
+ls
+```
+next
+
+```
+cd (filename)
+```
+next
+
+```
+ls
+```
+next we want to open VScode. To open VScode type in the terminal.
+
+```
+code .
+```
+this opens VScode
+
+> ## Working on VScode Terminal
+
+
+- First go to your browser and search terraform documentation.
+
+- Click on provider icon
+
+![oci-provider-icon](./images/oci-provider-icon.png "oci-provider-icon")
+ 
 
 - Go to OCI provider on Terraform documentaion site
 
 - Open OCI console.
 
-> we open the console to get the OCID, API Key, Compartment ID etc
+***we open the console to get the OCID, API Key, Compartment ID etc***
 
 This would look something like this:
 
