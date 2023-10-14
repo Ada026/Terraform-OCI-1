@@ -4,7 +4,7 @@
 
 - Open your terminal
 
-- create a folder for save your job/ work being done
+- create a folder to save your job/ work being done
 
 ```
 mkdir (name of choice)
